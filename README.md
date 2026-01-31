@@ -1,6 +1,6 @@
 #### <p align="center"> ＞ " ꜱɪʟᴀꜱ ᴡᴇ'ʀᴇ ɢᴏᴏᴅ ꜰʀɪᴇɴᴅꜱ , ᴀʀᴇ ᴡᴇ ɴᴏᴛ.. ? ,, ＜ </p>
 <p align="center">
-  <img src="https://github.com/sugilites/l/blob/main/thomas%20bro%20(1).png" />
+  <img src="https://github.com/sugilites/sugilites/blob/main/thomas%20test2%20(3).png" />
 </p>
 
 <p align="center"> <a href="https://azur.atabook.org/"> 𝐀𝐓𝐀𝐁𝐎𝐎𝐊<a> 
