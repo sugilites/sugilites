@@ -1,4 +1,9 @@
 #### <p align="center"> ＞ " ꜱɪʟᴀꜱ ᴡᴇ'ʀᴇ ɢᴏᴏᴅ ꜰʀɪᴇɴᴅꜱ , ᴀʀᴇ ᴡᴇ ɴᴏᴛ.. ? ,, ＜ </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-sugilites&label=Passengers&color=9b7551&style=plastic&abbreviated=true&base=21000">
+</p>
+
 <p align="center">
   <img src="https://github.com/sugilites/sugilites/blob/main/thomas%20test2%20(3).png" />
 </p>
