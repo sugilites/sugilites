@@ -12,7 +12,7 @@
   
 <p align="center"> // <a>
 
-<p align="center"> <a href="https://planted.straw.page/"> 𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘 𝐰𝐢𝐩<a>
+<p align="center"> <a href="https://planted.straw.page/"> 𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘<a>
 
 <p align="center"> 𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗 <a>
 
