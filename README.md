@@ -8,11 +8,14 @@
   <img src="https://github.com/sugilites/sugilites/blob/main/thomas%20test2%20(3).png" />
 </p>
 
-<p align="center"> <a href="https://azur.atabook.org/"> 𝐀𝐓𝐀𝐁𝐎𝐎𝐊<a> 
-  
-<p align="center"> // <a>
+</p>
 
-<p align="center"> <a href="https://planted.straw.page/"> 𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘<a>
+<div align="center">
+
+[𝐀𝐓𝐀𝐁𝐎𝐎𝐊](https://azur.atabook.org/)　//　[𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘](https://planted.straw.page/)　//　[𝗣𝗥𝗢𝗡𝗢𝗨𝗡𝗦](https://pronouns.cc/@azur)
+
+</div>
+
 
 <p align="center"> 𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗𝄗 <a>
 
